@@ -1,4 +1,4 @@
-/*! TACHYONS v4.9.1 | http://tachyons.io */
+/*! TACHYONS v4.9.1 | https://tachyons.io */
 
 /*
  *
@@ -12,7 +12,7 @@
  *    TABLE OF CONTENTS
  *
  *    1. External Library Includes
- *       - Normalize.css | http://normalize.css.github.io
+ *       - Normalize.css | https://normalize.css.github.io
  *    2. Tachyons Modules
  *    3. Variables
  *       - Media Queries
@@ -426,7 +426,7 @@ input[type="url"],
 /* This is for fluid media that is embedded from third party sites like youtube, vimeo etc.
  * Wrap the outer element in aspect-ratio and then extend it with the desired ratio i.e
  * Make sure there are no height and width attributes on the embedded media.
- * Adapted from: https://github.com/suitcss/components-flex-embed
+ * Adapted from: httpss://github.com/suitcss/components-flex-embed
  *
  * Example:
  *
@@ -561,7 +561,7 @@ input[type="url"],
 /*
 
    IMAGES
-   Docs: http://tachyons.io/docs/elements/images/
+   Docs: https://tachyons.io/docs/elements/images/
 
 */
 
@@ -572,7 +572,7 @@ img { max-width: 100%; }
 /*
 
    BACKGROUND SIZE
-   Docs: http://tachyons.io/docs/themes/background-size/
+   Docs: https://tachyons.io/docs/themes/background-size/
 
    Media Query Extensions:
      -ns = not-small
@@ -770,7 +770,7 @@ img { max-width: 100%; }
 /*
 
     BORDERS
-    Docs: http://tachyons.io/docs/themes/borders/
+    Docs: https://tachyons.io/docs/themes/borders/
 
     Base:
       b = border
@@ -832,7 +832,7 @@ img { max-width: 100%; }
 /*
 
    BORDER COLORS
-   Docs: http://tachyons.io/docs/themes/borders/
+   Docs: https://tachyons.io/docs/themes/borders/
 
    Border colors can be used to extend the base
    border classes ba,bt,bb,br,bl found in the _borders.css file.
@@ -976,7 +976,7 @@ img { max-width: 100%; }
 /*
 
    BORDER RADIUS
-   Docs: http://tachyons.io/docs/themes/border-radius/
+   Docs: https://tachyons.io/docs/themes/border-radius/
 
    Base:
      br   = border-radius
@@ -1114,7 +1114,7 @@ img { max-width: 100%; }
 /*
 
    BORDER STYLES
-   Docs: http://tachyons.io/docs/themes/borders/
+   Docs: https://tachyons.io/docs/themes/borders/
 
    Depends on base border module in _borders.css
 
@@ -1166,7 +1166,7 @@ img { max-width: 100%; }
 /*
 
    BORDER WIDTHS
-   Docs: http://tachyons.io/docs/themes/borders/
+   Docs: https://tachyons.io/docs/themes/borders/
 
    Base:
      bw = border-width
@@ -1250,7 +1250,7 @@ img { max-width: 100%; }
 /*
 
   BOX-SHADOW
-  Docs: http://tachyons.io/docs/themes/box-shadow/
+  Docs: https://tachyons.io/docs/themes/box-shadow/
 
   Media Query Extensions:
    -ns = not-small
@@ -1308,7 +1308,7 @@ img { max-width: 100%; }
 /*
 
    COORDINATES
-   Docs: http://tachyons.io/docs/layout/position/
+   Docs: https://tachyons.io/docs/layout/position/
 
    Use in combination with the position module.
 
@@ -1469,12 +1469,12 @@ img { max-width: 100%; }
 /*
 
    CLEARFIX
-   http://tachyons.io/docs/layout/clearfix/
+   https://tachyons.io/docs/layout/clearfix/
 
 */
 
 /* Nicolas Gallaghers Clearfix solution
-   Ref: http://nicolasgallagher.com/micro-clearfix-hack/ */
+   Ref: https://nicolasgallagher.com/micro-clearfix-hack/ */
 
 .cf:before,
 .cf:after { content: " "; display: table; }
@@ -1515,7 +1515,7 @@ img { max-width: 100%; }
 /*
 
    DISPLAY
-   Docs: http://tachyons.io/docs/layout/display
+   Docs: https://tachyons.io/docs/layout/display
 
    Base:
     d = display
@@ -1643,7 +1643,7 @@ img { max-width: 100%; }
 .inline-flex { display: -webkit-inline-box; display: -ms-inline-flexbox; display: inline-flex; }
 
 /* 1. Fix for Chrome 44 bug.
- * https://code.google.com/p/chromium/issues/detail?id=506893 */
+ * httpss://code.google.com/p/chromium/issues/detail?id=506893 */
 
 .flex-auto {
   -webkit-box-flex: 1;
@@ -1926,7 +1926,7 @@ img { max-width: 100%; }
 /*
 
    FLOATS
-   http://tachyons.io/docs/layout/floats/
+   https://tachyons.io/docs/layout/floats/
 
    1. Floated elements are automatically rendered as block level elements.
       Setting floats to display inline will fix the double margin bug in
@@ -1976,7 +1976,7 @@ img { max-width: 100%; }
 /*
 
    FONT FAMILY GROUPS
-   Docs: http://tachyons.io/docs/typography/font-family/
+   Docs: https://tachyons.io/docs/typography/font-family/
 
 */
 
@@ -2006,7 +2006,7 @@ img { max-width: 100%; }
 
 /* Monospaced Typefaces (for code) */
 
-/* From http://cssfontstack.com */
+/* From https://cssfontstack.com */
 
 code, .code {
   font-family: Consolas,
@@ -2073,7 +2073,7 @@ code, .code {
 /*
 
    FONT STYLE
-   Docs: http://tachyons.io/docs/typography/font-style/
+   Docs: https://tachyons.io/docs/typography/font-style/
 
    Media Query Extensions:
      -ns = not-small
@@ -2104,7 +2104,7 @@ code, .code {
 /*
 
    FONT WEIGHT
-   Docs: http://tachyons.io/docs/typography/font-weight/
+   Docs: https://tachyons.io/docs/typography/font-weight/
 
    Base
      fw = font-weight
@@ -2211,7 +2211,7 @@ code, .code {
 /*
 
    HEIGHTS
-   Docs: http://tachyons.io/docs/layout/heights/
+   Docs: https://tachyons.io/docs/layout/heights/
 
    Base:
      h = height
@@ -2346,7 +2346,7 @@ code, .code {
 /*
 
    LETTER SPACING
-   Docs: http://tachyons.io/docs/typography/tracking/
+   Docs: https://tachyons.io/docs/typography/tracking/
 
    Media Query Extensions:
      -ns = not-small
@@ -2382,7 +2382,7 @@ code, .code {
 /*
 
    LINE HEIGHT / LEADING
-   Docs: http://tachyons.io/docs/typography/line-height
+   Docs: https://tachyons.io/docs/typography/line-height
 
    Media Query Extensions:
      -ns = not-small
@@ -2418,7 +2418,7 @@ code, .code {
 /*
 
    LINKS
-   Docs: http://tachyons.io/docs/elements/links/
+   Docs: https://tachyons.io/docs/elements/links/
 
 */
 
@@ -2448,7 +2448,7 @@ code, .code {
 /*
 
    LISTS
-   http://tachyons.io/docs/elements/lists/
+   https://tachyons.io/docs/elements/lists/
 
 */
 
@@ -2457,7 +2457,7 @@ code, .code {
 /*
 
    MAX WIDTHS
-   Docs: http://tachyons.io/docs/layout/max-widths/
+   Docs: https://tachyons.io/docs/layout/max-widths/
 
    Base:
      mw = max-width
@@ -2564,7 +2564,7 @@ code, .code {
 /*
 
    WIDTHS
-   Docs: http://tachyons.io/docs/layout/widths/
+   Docs: https://tachyons.io/docs/layout/widths/
 
    Base:
      w = width
@@ -2812,7 +2812,7 @@ code, .code {
 /*
 
    POSITIONING
-   Docs: http://tachyons.io/docs/layout/position/
+   Docs: https://tachyons.io/docs/layout/position/
 
    Media Query Extensions:
      -ns = not-small
@@ -2853,7 +2853,7 @@ code, .code {
 /*
 
     OPACITY
-    Docs: http://tachyons.io/docs/themes/opacity/
+    Docs: https://tachyons.io/docs/themes/opacity/
 
 */
 
@@ -2936,7 +2936,7 @@ code, .code {
 /*
 
    SKINS
-   Docs: http://tachyons.io/docs/themes/skins/
+   Docs: https://tachyons.io/docs/themes/skins/
 
    Classes for setting foreground and background colors on elements.
    If you haven't declared a border color, but set border on an element, it will 
@@ -3520,7 +3520,7 @@ code, .code {
 
 /*
    SPACING
-   Docs: http://tachyons.io/docs/layout/spacing/
+   Docs: https://tachyons.io/docs/layout/spacing/
 
    An eight step powers of two scale ranging from 0 to 16rem.
 
@@ -4776,7 +4776,7 @@ code, .code {
 /*
 
   TABLES
-  Docs: http://tachyons.io/docs/elements/tables/
+  Docs: https://tachyons.io/docs/elements/tables/
 
 */
 
@@ -4812,7 +4812,7 @@ code, .code {
 /*
 
    TEXT DECORATION
-   Docs: http://tachyons.io/docs/typography/text-decoration/
+   Docs: https://tachyons.io/docs/typography/text-decoration/
 
 
    Media Query Extensions:
@@ -4849,7 +4849,7 @@ code, .code {
 /*
 
   TEXT ALIGN
-  Docs: http://tachyons.io/docs/typography/text-align/
+  Docs: https://tachyons.io/docs/typography/text-align/
 
   Base
     t = text-align
@@ -4899,7 +4899,7 @@ code, .code {
 /*
 
    TEXT TRANSFORM
-   Docs: http://tachyons.io/docs/typography/text-transform/
+   Docs: https://tachyons.io/docs/typography/text-transform/
 
    Base:
      tt = text-transform
@@ -4949,7 +4949,7 @@ code, .code {
 /*
 
    TYPE SCALE
-   Docs: http://tachyons.io/docs/typography/scale/
+   Docs: https://tachyons.io/docs/typography/scale/
 
    Base:
     f = font-size
@@ -5053,7 +5053,7 @@ code, .code {
 /*
 
    TYPOGRAPHY
-   http://tachyons.io/docs/typography/measure/
+   https://tachyons.io/docs/typography/measure/
 
    Media Query Extensions:
      -ns = not-small
@@ -5249,7 +5249,7 @@ code, .code {
 
 /*
     Text that is hidden but accessible
-    Ref: http://snook.ca/archives/html_and_css/hiding-content-for-accessibility
+    Ref: https://snook.ca/archives/html_and_css/hiding-content-for-accessibility
 */
 
 .clip {
@@ -5364,7 +5364,7 @@ code, .code {
 /*
 
   HOVER EFFECTS
-  Docs: http://tachyons.io/docs/themes/hovers/
+  Docs: https://tachyons.io/docs/themes/hovers/
 
     - Dim
     - Glow
@@ -5502,7 +5502,7 @@ code, .code {
    Add shadow on hover.
 
    Performant box-shadow animation pattern from 
-   http://tobiasahlin.com/blog/how-to-animate-box-shadow/ 
+   https://tobiasahlin.com/blog/how-to-animate-box-shadow/ 
 */
 
 .shadow-hover {
@@ -5562,10 +5562,10 @@ code, .code {
     -initial = string value initial
     -unset = string value unset
 
-  MDN: https://developer.mozilla.org/en/docs/Web/CSS/z-index
-  Spec: http://www.w3.org/TR/CSS2/zindex.html
+  MDN: httpss://developer.mozilla.org/en/docs/Web/CSS/z-index
+  Spec: https://www.w3.org/TR/CSS2/zindex.html
   Articles:
-    https://philipwalton.com/articles/what-no-one-told-you-about-z-index/
+    httpss://philipwalton.com/articles/what-no-one-told-you-about-z-index/
 
   Tips on extending:
   There might be a time worth using negative z-index values.
@@ -5752,7 +5752,7 @@ pre {
   position: relative;
 }
 
-/* pagination.html: https://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L117 */
+/* pagination.html: httpss://github.com/spf13/hugo/blob/master/tpl/tplimpl/template_embedded.go#L117 */
 
 .pagination {
   margin: 3rem 0;
