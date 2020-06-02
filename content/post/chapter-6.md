@@ -2,7 +2,7 @@
 date: 2017-04-14T11:15:58-04:00
 description: "One Raspberri to rule them all"
 featured_image: "/images/raspPi4.jpg"
-tags: []
+tags: ["tech"]
 title: "Chapter VI: A dream that became a reality"
 ---
 
